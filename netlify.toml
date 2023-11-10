@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/*"
-to = "macan-profile.html"
+to = "index.html"
 status = 200
