@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "macan-profile.html"
+status = 200
